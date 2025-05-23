@@ -4,8 +4,8 @@
 I'm A developer in :
 <br/>
 <img src='./icons8-javascript.svg'/>
-<img src='./icons8-react.svg'/>
 <img src='./icons8-typescript.svg'/>
+<img src='./icons8-react.svg'/>
 
 
 🌱 I’m currently learning Next Js
