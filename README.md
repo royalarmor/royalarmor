@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Next Js
+
+I'm A developer in :
+
+
+
+🌱 I’m currently learning Next Js
+
 <!--
 **royalarmor/royalarmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
