@@ -3,9 +3,9 @@
 
 I'm A developer in :
 <br/>
-<img src='./icons8-javascript.svg'/>
-<img src='./icons8-typescript.svg'/>
-<img src='./icons8-react.svg' style='width:48px;'/>
+<img src='./icons8-javascript.svg' />
+<img src='./icons8-typescript.svg' />
+<img src='./icons8-react.svg' style='width:40px;' />
 
 
 🌱 I’m currently learning Next Js
