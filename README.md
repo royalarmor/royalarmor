@@ -2,7 +2,7 @@
 
 
 I'm A developer in :
-<img scr='https://github.com/royalarmor/royalarmor/blob/main/icons8-javascript.svg'>
+<img scr="https://github.com/royalarmor/royalarmor/blob/main/icons8-javascript.svg">
 
 
 🌱 I’m currently learning Next Js
